@@ -32,3 +32,20 @@ Photos of the robot are available in the `/images/` folder.
 
 ## 📜 License
 This project is open-source and free to use.
+
+### 📸 Robot Preview
+
+Berikut adalah beberapa tampilan dari robot sumo yang dibuat:
+
+#### 🔹 Tampak Depan
+![Front View](images/IMG-20250613-WA0007.jpg)
+
+#### 🔹 Tampak Samping
+![Side View](images/IMG-20250613-WA0008.jpg)
+
+#### 🔹 Tampak Atas
+![Top View](images/IMG-20250613-WA0009.jpg)
+
+#### 🔹 Tampak Keseluruhan
+![Full View](images/IMG-20250613-WA0010.jpg)
+
