@@ -14,9 +14,12 @@ This sumo robot is designed to detect the opponent and push them outside the are
 - Arduino Uno
 - L298N Motor Driver
 - 2x DC Motors
-- 3x IR Sensors
-- Battery pack
+- 1x IR Sensors
+- 3x Battery Litium 
 - Robot chassis
+- Servo
+- switch On Off
+- cabel jumper
 
 ## 💻 Source Code
 The code is located in the `/code/` folder:  
@@ -31,7 +34,7 @@ Photos of the robot are available in the `/images/` folder.
 3. Place the robot in a sumo arena and power it on
 
 ## 📜 License
-This project is open-source and free to use.
+This project is open-source and free to use, If you have any questions, please contact us at afrianawardiman19@gmail.com
 
 ### 📸 Robot Preview
 
